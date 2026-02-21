@@ -28,6 +28,7 @@ header{
     font-size: 24px;
     line-height: 29px;
     color: #ffffff;
+    cursor: pointer;
 } 
 .logo-image{
     width: 568px;
